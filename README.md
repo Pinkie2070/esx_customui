@@ -4,7 +4,12 @@ FiveM Custom UI is a public released UI to improve the UI for the ESX Framework.
 - Note: I did NOT create the Code. I have simply edited it to get it working. I have also added a few things to make it better. Make sure you Follow the Installation below.
 
 # Screenshot preview
-![screenshot](https://i.imgur.com/pGsbPB4.jpg)
+
+# On foot
+![screenshot](https://i.imgur.com/m3Ie74x.png)
+
+# In car
+![screenshot](https://i.imgur.com/KlWd3hN.png)
 
 # Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
